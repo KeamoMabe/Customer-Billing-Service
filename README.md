@@ -5,7 +5,4 @@ A simple Python application that:
 2. Captures item prices
 3. Calculates the total bill
 4. Requires password verification before completing payment
-Technologies Used
-Python
-Author
-Keamogetswe Mabe
+Using Python
